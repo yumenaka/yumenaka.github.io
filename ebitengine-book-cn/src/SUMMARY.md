@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [关于这本书](./intro.md)
+- [安装](./setup.md)
