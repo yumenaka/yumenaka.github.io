@@ -1,0 +1,10 @@
+[book]
+authors = ["eihigh"]
+language = "chinese"
+multilingual = false
+src = "src"
+title = "从零开始的游戏编程：Go 语言与 Ebitengine"
+[output.html]
+site-url = "/ebitengine-book-cn/"
+[build]
+build-dir = "../docs/ebitengine-book-cn/"
